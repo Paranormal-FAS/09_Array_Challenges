@@ -1,2 +1,3 @@
 # 09_Array_Challenge
-Synth HTML
+
+Erzeugen einer HTML-Struktur mit JavaScript
