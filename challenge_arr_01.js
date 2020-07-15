@@ -10,3 +10,11 @@ Verwenden Sie dafür die untenstehenden Arrays
 var controls = ['<','>','/'];
 var elements = ['html','head','head','body','p','p','body','html'];
 
+
+
+//Funktionalität: Konsolenausgabe
+//Test: 
+//ausgabe("test");
+function ausgabe(outputStr) {
+    console.log(outputStr);
+}
